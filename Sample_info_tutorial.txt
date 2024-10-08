@@ -1,0 +1,13 @@
+ID	Origin	Species
+SRR106852	Khalas	dactylifera
+SRR121596	Medjool	dactylifera
+SRR121604	Medjool	dactylifera
+SRR121607	Deglet Noor	dactylifera
+SRR121612	Alrijal	dactylifera
+SRR974758	Alriyadh	dactylifera
+SRR974793	Dekhaini Alriyadh	dactylifera
+SRR974794	Sukkariat Qassim	dactylifera
+SRR974795	Rabia Al-madinah	dactylifera
+SRR974796	Shalaby Al-madinah	dactylifera
+SRR974796	Moshwaq Al-Riyadh	dactylifera
+
