@@ -6,19 +6,19 @@
 #### Load packages
 #### Only run the installation commands if the packages are not installed
 
-install.packages("ape")
+#install.packages("ape")
 library(ape)
-install.packages("BiocManager")
-library(BiocManager)
-BiocManager::install("ggtree")
+#install.packages("BiocManager")
+#library(BiocManager)
+#BiocManager::install("ggtree")
 library(ggtree)
-BiocManager::install("treeio")
+#BiocManager::install("treeio")
 library(treeio)
 # Go to your linux terminal and run
 # sudo apt-get install libmagick++-dev
 # then go on
-BiocManager::install("magick")
-install.packages("ggimage")
+#BiocManager::install("magick")
+#install.packages("ggimage")
 library(ggimage)
 library(gridExtra)
 
